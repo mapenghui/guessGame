@@ -24,6 +24,10 @@
 
 ## Use-method
 -------------
+ * First: input "git clone https://github.com/mcwmatchbox/guessGame.git"
+ * Second: input "cd /guessGame" enter the content guessGame.
+ * Third: input "make Makefile" compiles the source code.
+ * Forth: input"./guessGame" run the project. 
  * You should input a number between 1 and 20, If the number you input equals the random number, the game would over.
 
 ## Attention
