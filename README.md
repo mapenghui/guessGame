@@ -25,6 +25,7 @@
 ## Use-method
 -------------
  * You should input a number between 1 and 20, If the number you input equals the random number, the game would over.
+
 ## Attention
 ------------
  * A. The number you input must be an integer number between 1 and 20.
