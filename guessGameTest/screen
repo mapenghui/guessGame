@@ -1,0 +1,7 @@
+Congratulate!you guess it
+
+
+
+interactWithUserAfterCompare.cpp:26: error: Failure in interactWithUserAfterCompare0: read == "Congratulate!you guess it"
+FAILURE: 1 out of 1 tests failed (1 failures).
+Test time: 0.00 seconds.

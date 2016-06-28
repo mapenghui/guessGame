@@ -1,0 +1,20 @@
+Congratulate!you guess it
+
+
+interactWithUserAfterCompare.cpp:25: error: Failure in interactWithUserAfterCompare0: read == "Congratulate!you guess it"
+The number you input is smaller, please input again:
+The number you input is bigger, please input again:
+The number you input is bigger, please input again:
+The number you input is bigger, please input again:
+Congratulate!you guess it
+
+
+interactWithUserAfterCompare.cpp:32: error: Failure in interactWithUserAfterCompare1: read == "The number you input is smaller, please input again:"
+The number you input is bigger, please input again:
+The number you input is bigger, please input again:
+Congratulate!you guess it
+
+
+interactWithUserAfterCompare.cpp:39: error: Failure in interactWithUserAfterCompare2: read == "The number you input is bigger, please input again:"
+FAILURE: 3 out of 3 tests failed (3 failures).
+Test time: 31.76 seconds.
